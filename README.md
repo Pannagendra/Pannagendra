@@ -91,7 +91,7 @@ I design and ship **production-grade MLOps platforms** and **low-latency GenAI/R
 - Standing up a **RAG** stack with evals, guardrails & monitoring  
 - **Modernizing CI/CD** with GitOps, Terraform modules, Kubernetes  
 - Hardening **FastAPI/Flask** services for prod 
-**LinkedIn:** _[https://www.linkedin.com/in/your-handle/_ <!-- TODO: add link -->](https://www.linkedin.com/in/pannagendra-kl-28113055/)
+**LinkedIn:** _[(https://www.linkedin.com/in/pannagendra-kl-28113055/)]
 
 ---
 
