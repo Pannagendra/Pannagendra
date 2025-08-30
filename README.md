@@ -35,12 +35,17 @@ I design and ship **production-grade MLOps platforms** and **low-latency GenAI/R
 - **Stack:** Terraform, AWS (EKS, S3, RDS, ECR, IAM), MLflow, Airflow, FastAPI/KServe, Prometheus/Grafana  
 - **Outcome:** Practical reference for **production MLOps** on AWS with Kubernetes.
 
-### 4) **GenAIFundamentals** – Concept → Practice
+### 4) **DailyCoding**
+**Repo:** [`MultiCloudProject`](https://github.com/Pannagendra/DailyCoding)  
+- Patterns from leetcode and geeksforgeeks daily problem of the day.  
+- **Outcome:** Python programming skills.
+
+### 5) **GenAIFundamentals** – Concept → Practice
 **Repo:** [`GenAIFundamentals`](https://github.com/Pannagendra/GenAIFundamentals)  
 - Clear explainers: embeddings, vector DBs, RAG, evaluation; pitfalls & best practices.  
 - **Outcome:** Shows my ability to **teach/lead** and set standards across teams.
 
-### 5) **MultiCloudProject**
+### 6) **MultiCloudProject**
 **Repo:** [`MultiCloudProject`](https://github.com/Pannagendra/MultiCloudProject)  
 - Patterns for portable infra across clouds; IaC, containerization, cluster patterns.  
 - **Outcome:** Portability & vendor-neutral design skills.
