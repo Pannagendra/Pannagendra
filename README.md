@@ -90,7 +90,8 @@ I design and ship **production-grade MLOps platforms** and **low-latency GenAI/R
 - Building an **ML/LLM platform** on AWS/GCP/Azure  
 - Standing up a **RAG** stack with evals, guardrails & monitoring  
 - **Modernizing CI/CD** with GitOps, Terraform modules, Kubernetes  
-- Hardening **FastAPI/Flask** services for prod 
+- Hardening **FastAPI/Flask** services for prod
+  
 **LinkedIn:** _[(https://www.linkedin.com/in/pannagendra-kl-28113055/)]
 
 ---
