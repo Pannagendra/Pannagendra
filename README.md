@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=800&lines=Platform+%26+MLOps+Engineer;GenAI%2FRAG+Specialist;Cloud+%26+Kubernetes+Expert;Python+%26+DevOps+Engineer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=800&lines=Platform+%26+MLOps+Engineer;GenAI%2FRAG+Enthusiast;Cloud+%26+Kubernetes+Expert;Python+%26+DevOps+Engineer)
 
 </div>
 
